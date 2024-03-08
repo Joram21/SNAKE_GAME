@@ -9,9 +9,10 @@ Playing the Game
 To play the game, simply clone this repository to your local machine:
 
 git clone https://github.com/Joram21/SNAKE_GAME.git
-Then, navigate to the cloned repository and run the following command:
 
+Then, navigate to the cloned repository and run the following command:
 python3 snake_game2.py
+
 Use the arrow keys or w,s,a,d to control the snake and try to eat as much food as possible without running into the walls or the snake's body. The game ends when the snake hits the wall or its own body.
 
 Contributing
